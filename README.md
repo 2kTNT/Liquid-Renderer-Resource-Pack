@@ -1,7 +1,8 @@
 # Liquid-Renderer-Resource-Pack
 If you have ever wanted realistic Minecraft Liquid Physics for your Items, this is for you. [Chime Mod is required https://www.curseforge.com/minecraft/mc-mods/chime-fabric]
 
-What The resource Pack adds/Changes
+
+What The resource Pack Adds/Changes
 
 WATER BUCKET
 
@@ -12,6 +13,7 @@ WATER BUCKET
 -Boiling Water when in The Nether
 
 -Lesser slosh when in motion, whilst in the nether
+
 LAVA BUCKET
 
 -Lava dribble whilst static
